@@ -1,5 +1,5 @@
 # Study-Project
-Test
+Testing
 
 print ("Hello World!")
 Hello, This is Your pilot speaking!
